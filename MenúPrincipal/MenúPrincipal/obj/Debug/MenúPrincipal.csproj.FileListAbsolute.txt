@@ -1,0 +1,11 @@
+C:\Users\LAB-DSC-ITT\Desktop\MenúPrincipal\MenúPrincipal\bin\Debug\MenúPrincipal.exe.config
+C:\Users\LAB-DSC-ITT\Desktop\MenúPrincipal\MenúPrincipal\bin\Debug\MenúPrincipal.exe
+C:\Users\LAB-DSC-ITT\Desktop\MenúPrincipal\MenúPrincipal\bin\Debug\MenúPrincipal.pdb
+C:\Users\LAB-DSC-ITT\Desktop\MenúPrincipal\MenúPrincipal\obj\Debug\MenúPrincipal.csproj.AssemblyReference.cache
+C:\Users\LAB-DSC-ITT\Desktop\MenúPrincipal\MenúPrincipal\obj\Debug\MenúPrincipal.Form1.resources
+C:\Users\LAB-DSC-ITT\Desktop\MenúPrincipal\MenúPrincipal\obj\Debug\MenúPrincipal.Form2.resources
+C:\Users\LAB-DSC-ITT\Desktop\MenúPrincipal\MenúPrincipal\obj\Debug\MenúPrincipal.Properties.Resources.resources
+C:\Users\LAB-DSC-ITT\Desktop\MenúPrincipal\MenúPrincipal\obj\Debug\MenúPrincipal.csproj.GenerateResource.cache
+C:\Users\LAB-DSC-ITT\Desktop\MenúPrincipal\MenúPrincipal\obj\Debug\MenúPrincipal.csproj.CoreCompileInputs.cache
+C:\Users\LAB-DSC-ITT\Desktop\MenúPrincipal\MenúPrincipal\obj\Debug\MenúPrincipal.exe
+C:\Users\LAB-DSC-ITT\Desktop\MenúPrincipal\MenúPrincipal\obj\Debug\MenúPrincipal.pdb
